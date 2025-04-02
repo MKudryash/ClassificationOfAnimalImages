@@ -1,4 +1,4 @@
-# 🐾 ImageClassification
+# 🐾 Classification of animal images
 
 A mobile application for recognizing animals in photographs using TensorFlow and Jetpack Compose.
 
