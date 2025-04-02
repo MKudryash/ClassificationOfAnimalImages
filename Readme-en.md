@@ -34,7 +34,7 @@ A mobile application for recognizing animals in photographs using TensorFlow and
    - Run the application on an emulator or device (Android 8.0+)
 
 ---
-## 📸 Menggunakan
+## 📸 Using
 - **mage Upload**: Users can upload images from the gallery or via URL, or view already uploaded images in the gallery
 - **Classification**: The application automatically identifies the type of animal in the uploaded image and displays the result 
 
